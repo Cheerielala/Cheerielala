@@ -1,5 +1,5 @@
 ## Greeтιɴɢѕ ! I'м Cнeerιelαlα
-<img src="https://share.google/fLHC7MqLU5vIpGN61" width="300" alt="lily">
+src="https://share.google/fLHC7MqLU5vIpGN61" width="300" alt="lily">
 
 <!--
 **Cheerielala/Cheerielala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
